@@ -1,0 +1,6 @@
+.cover-photo {
+  background-image: url("../public/bg-form.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
